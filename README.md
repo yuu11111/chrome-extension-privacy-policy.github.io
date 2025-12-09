@@ -1,0 +1,1 @@
+# chrome-extension-privacy-policy.github.io
